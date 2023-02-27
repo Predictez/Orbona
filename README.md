@@ -65,7 +65,27 @@ The auto-burn mechanism is triggered every time the Orbona Token is used for NFT
 3. <b> Alignment with Sustainable Practices: </b> The auto-burn mechanism aligns with the principles of sustainable practices and supports the responsible use of resources. By reducing the overall supply of tokens, the auto-burn mechanism helps to reduce waste and promote efficient use of resources.
 
 
-These combined features make the Orbona token a unique and valuable tool for participants in the Tezos NFT ecosystem, and its USP lies in the fact that it provides multiple functions and benefits for its users.
+## Tokenomics
+
+### Token Supply:
+
+Orbona token will have an unlimited supply, but tokens will only be minted when the buyer of last resort facility is used.
+Tokens will also be minted in propotional to last resort facility for allocation to founders, advisors, investors, marketing, and staking rewards.
+
+
+### Token Distribution:
+
+<b>Founders:</b> 12% of Orbona tokens will be allocated to the founders of the project, to be vested over a certain period of time.
+
+<b>Advisors:</b> 3% of Orbona tokens will be allocated to advisors who are helping to guide the project, to be vested over a certain period of time.
+
+<b>Investors:</b> 25% of Orbona tokens will be allocated to early investors in the project, to be vested over a certain period of time.
+
+<b>Marketing:</b> 12% of Orbona tokens will be allocated to marketing efforts, including user acquisition and community building.
+
+<b>Staking Rewards:</b> 15% of Orbona tokens will be allocated to staking rewards for users who provide liquidity to the project.
+
+<b> Buyer of Last Resort:</b> 33% of Orbona tokens will be allocated to the buyer of last resort facility, to be minted when necessary.
 
 ## Roadmap:
 
