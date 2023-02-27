@@ -83,7 +83,7 @@ Tokens will also be minted in propotional to last resort facility for allocation
 
 <b>Marketing:</b> 12% of Orbona tokens will be allocated to marketing efforts, including user acquisition and community building.
 
-<b>Staking Rewards:</b> 15% of Orbona tokens will be allocated to staking rewards for users who provide liquidity to the project.
+<b>Rewards:</b> 15% of Orbona tokens will be allocated to rewards for users who tip and help in identifying the reputation of the NFTs and the creators.
 
 <b> Buyer of Last Resort:</b> 33% of Orbona tokens will be allocated to the buyer of last resort facility, to be minted when necessary.
 
