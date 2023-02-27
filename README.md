@@ -12,9 +12,9 @@ In addition, we plan to use token to experiment with the concept of
 
 2. Stable coins creation with burn functions
 
-## Orbona
+## Goddess Orbona
 
-Orbona was a Roman goddess of orphaned children. In ancient Roman religion, Orbona was worshipped as the protector of orphans and as the one who provided for their needs. She was considered to be a gentle and nurturing deity, who cared for the vulnerable and disadvantaged. Orbona also represented a timeless ideal of compassion and care for those in need, and serving as an inspiring symbol of the power of kindness and generosity to change the world for the better. In similar way our project is built on the idea that a token serves as a source of stability and security for NFT creators and owners.
+In ancient Roman religion, Orbona was worshipped as the protector of orphans and as the one who provided for their needs. She was considered to be a gentle and nurturing deity, who cared for the vulnerable and disadvantaged. Orbona also represented a timeless ideal of compassion and care for those in need, and serving as an inspiring symbol of the power of kindness and generosity to change the world for the better. In similar way our project is built on the idea that a token serves as a source of stability and security for NFT creators and owners.
     
 ## Orbona token 
 
