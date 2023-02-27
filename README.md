@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Non-Fungible Token (NFT) market has seen significant growth in recent years, as artists, creators, and individuals are using NFTs to monetize their digital assets and creativity. Despite this growth, the NFT market remains highly speculative and the value of individual NFTs can be difficult to predict, leading to increased risks for NFT creators and owners. Also NFT markets is skewed towards established NFT creators than to a newbie. So an artist new to NFT world finds it difficult to navigate and establish himself. Even then, he may end up having no sale or selling his NFT for very value. An cursory look at Objkt marketplace provides that more than 30% of 
+The Non-Fungible Token (NFT) market has seen significant growth in recent years, as artists, creators, and individuals are using NFTs to monetize their digital assets and creativity. Despite this growth, the NFT market remains highly speculative and the value of individual NFTs can be difficult to predict, leading to increased risks for NFT creators and owners. Also NFT markets is skewed towards established NFT creators than to a newbie. So an artist new to NFT world finds it difficult to navigate and establish himself. Even then, he may end up having no sale or selling his NFT for very value. An cursory look at Objkt marketplace provides that more than 30% of NFTs and atleast 20% of NFTs are burned on a daily basis.
 
 To address these challenges and support the budding NFT culture on Tezos, we propose the creation of a new crypto token that acts as a buyer of last resort of NFTs, serves as a tipping token and has inflation resistant auto-burn functionality. This token will provide a stable and reliable source of demand for NFTs, helping to mitigate the risks of speculation and volatility in the NFT market and support the NFT ecosystem. By bridging the NFT and DeFi communities, the token can help to support the growth and development of the Tezos ecosystem and provide new opportunities for collaboration and innovation
 
@@ -66,6 +66,13 @@ The auto-burn mechanism is triggered every time the Orbona Token is used for NFT
 
 
 These combined features make the Orbona token a unique and valuable tool for participants in the Tezos NFT ecosystem, and its USP lies in the fact that it provides multiple functions and benefits for its users.
+
+## Roadmap:
+
+    <b>Q2 2023:</b> Orbona token launch, initial marketing and promotion.
+    <b>Q3 2023:</b> Development of a Buyer of last resort platform, partnerships with NFT creators and communities.
+    <b>Q3 2023:</b> Development of a user-friendly NFT tipping platform, integration with popular NFT marketplaces, partnerships with NFT creators and communities.
+    <b>Q4 2023:</b> Expansion of the Orbona ecosystem, integration with other DeFi projects and applications.
 
 ## Technical Components
 
