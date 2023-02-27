@@ -38,7 +38,17 @@ The buyer of last resort aspect of the Orbona Token aligns with the principles o
 
 Tipping is a way for NFT (Non-Fungible Token) owners and fans to show appreciation and support for NFT artists and creators. In the traditional art world, artists are often compensated through the sale of their works or through commissions. However, in the NFT world, it can be more challenging for artists to monetize their creations and earn a livelihood. Tipping is a way for the NFT community to directly support artists and reward them for their work.
 
-Tipping can also help drive engagement and interaction within the NFT community. By allowing NFT owners and fans to easily tip NFT artists, it encourages more participation and helps to build a thriving NFT ecosystem. This can lead to more creativity and innovation within the space, which can ultimately benefit everyone involved.
+Tipping can also help drive engagement and interaction within the NFT community. By allowing NFT collectors and fans to easily tip NFT artists, it encourages more participation and helps to build a thriving NFT ecosystem. This can lead to more creativity and innovation within the space, which can ultimately benefit everyone involved.
+
+Tipping NFT artists has several benefits for both artists and collectors.
+
+1. <b>Increased Recognition: </b> Tipping NFT artists will help them to gain recognition for their work. This will help artists to build their reputation and reach a wider audience.
+
+2. <b>Monetization: </b> Tipping NFT artists will provide them with a new source of income and help them to monetize their work.
+
+3. <b>Incentive to Create: </b> Tipping NFT artists will provide them with an incentive to continue creating NFTs and improve their work.
+
+4. <b>Strengthening the NFT Community: </b> Tipping NFT artists will help to strengthen the NFT community by fostering a culture of support and recognition.
 
 In addition to acting as a buyer of last resort, the Orbona Token can also be used as a tipping token for NFT creators and owners. This provides a way for fans and supporters to show their appreciation for NFTs and the work of their creators and owners. By using the Orbona Token for tips, NFT fans can help to increase the visibility and exposure of NFTs and support their creators and owners.
 
