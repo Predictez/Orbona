@@ -87,6 +87,12 @@ Tokens will also be minted in propotional to last resort facility for allocation
 
 <b> Buyer of Last Resort:</b> 33% of Orbona tokens will be allocated to the buyer of last resort facility, to be minted when necessary.
 
+### Token Utility :
+
+1. Governance Token - Token Holders can take part in the Governance of the Orbona Ecosystem
+2. Tipping Token - Token holders can tip art and NFT holders
+3. Buyer of last resort - Token is used as UBI for NFT artist and sellers.
+
 ## Roadmap:
 
    <b> Q2 2023: </b> Orbona token launch, initial marketing and promotion.
@@ -101,7 +107,7 @@ Tokens will also be minted in propotional to last resort facility for allocation
 
 ### Home
 
-Home is the place where users can deposit their NFTs for fixed number of Orbona Tokens. Number of the tokens is fixed amount in Orbona tokens for 1/1 art editions. If there are mulitple editions of same art work , then tokens awarded will be divided by the number of the editions and will sent to the depositer address.
+Home is the Buyer of last resort platform where users can deposit their NFTs for fixed number of Orbona Tokens. Number of the tokens is fixed amount in Orbona tokens for 1/1 art editions. If there are mulitple editions of same art work , then tokens awarded will be divided by the number of the editions and will sent to the depositor's address.
 
 ### Gallery
 
