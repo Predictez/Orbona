@@ -69,10 +69,10 @@ These combined features make the Orbona token a unique and valuable tool for par
 
 ## Roadmap:
 
-    <b>Q2 2023:</b> Orbona token launch, initial marketing and promotion.
-    <b>Q3 2023:</b> Development of a Buyer of last resort platform, partnerships with NFT creators and communities.
-    <b>Q3 2023:</b> Development of a user-friendly NFT tipping platform, integration with popular NFT marketplaces, partnerships with NFT creators and communities.
-    <b>Q4 2023:</b> Expansion of the Orbona ecosystem, integration with other DeFi projects and applications.
+   <b>Q2 2023:</b> Orbona token launch, initial marketing and promotion.
+   <b>Q3 2023:</b> Development of a Buyer of last resort platform, partnerships with NFT creators and communities.
+   <b>Q3 2023:</b> Development of a user-friendly NFT tipping platform, integration with popular NFT marketplaces, partnerships with NFT creators and communities.
+   <b>Q4 2023:</b> Expansion of the Orbona ecosystem, integration with other DeFi projects and applications.
 
 ## Technical Components
 
