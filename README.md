@@ -75,17 +75,12 @@ Tokens will also be minted in propotional to last resort facility for allocation
 
 ### Token Distribution:
 
-<b>Founders:</b> 12% of Orbona tokens will be allocated to the founders of the project, to be vested over a certain period of time.
-
-<b>Advisors:</b> 3% of Orbona tokens will be allocated to advisors who are helping to guide the project, to be vested over a certain period of time.
-
-<b>Investors:</b> 25% of Orbona tokens will be allocated to early investors in the project, to be vested over a certain period of time.
-
-<b>Marketing:</b> 12% of Orbona tokens will be allocated to marketing efforts, including user acquisition and community building.
-
-<b>Rewards:</b> 15% of Orbona tokens will be allocated to rewards for users who tip and help in identifying the reputation of the NFTs and the creators.
-
-<b> Buyer of Last Resort:</b> 33% of Orbona tokens will be allocated to the buyer of last resort facility, to be minted when necessary.
+1. <b>Founders:</b> 12% of Orbona tokens will be allocated to the founders of the project, to be vested over a certain period of time.
+2. <b>Advisors:</b> 3% of Orbona tokens will be allocated to advisors who are helping to guide the project, to be vested over a certain period of time.
+3. <b>Investors:</b> 25% of Orbona tokens will be allocated to early investors in the project, to be vested over a certain period of time.
+4. <b>Marketing:</b> 12% of Orbona tokens will be allocated to marketing efforts, including user acquisition and community building.
+5. <b>Rewards:</b> 15% of Orbona tokens will be allocated to rewards for users who tip and help in identifying the reputation of the NFTs and the creators.
+6. <b> Buyer of Last Resort:</b> 33% of Orbona tokens will be allocated to the buyer of last resort facility, to be minted when necessary.
 
 ### Token Utility :
 
