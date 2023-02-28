@@ -26,7 +26,7 @@ The Orbona Token is a new token that will be introduced on the Tezos network as 
 
 
 ### Buyer of Last Resort
-The Orbona will act as a buyer of last resort for NFTs, providing a stable guaranteed source of income for NFT creators and owners. This helps to ensure that NFTs remain valuable and that their creators and owners are able to make a living from their work.
+The Orbona will act as a buyer of last resort for NFTs (ie. it will provide a facility to buy any NFT from both artists and collectors at a set price in Orbona Token), providing a stable guaranteed source of income for NFT creators and owners. This helps to ensure that NFTs remain valuable and that their creators and owners are able to make a living from their work. The NFTs bought will be sold later for higher amounts as we expect the the facility will be mostly utilised by a new and amatuer artist, But once they become experienced and expert, their art works( even the old works when they did as amatuer) will fetch 1000x the support price provided by the Buyer of Last resort facility. Though not all artists may become popular but returns of 1000x from a few will compensate for others.
 
 The buyer of last resort aspect of the Orbona Token aligns with the principles of Universal Basic Income (UBI) (which aims to provide a basic standard of living to all citizens, regardless of their circumstances). By acting as a form of UBI for the NFT community, the Orbona Token helps to support the growth and development of the NFT market and attract new participants to the  Tezos ecosystem. It will help NFT artists , collectors in following 
 
@@ -36,7 +36,7 @@ The buyer of last resort aspect of the Orbona Token aligns with the principles o
 3. <b> Support for NFT artists:</b> By providing a reliable source of demand for NFTs, the Orbona token will help to support NFT artists and creatives, enabling them to monetize their work more effectively and providing financial stability and security.
 4.  <b> Increased liquidity:</b> The presence of a buyer of last resort will increase the liquidity of the NFT market, making it easier for NFTs to be bought and sold on the open market.
 
-So the Buyer of last resort functionality will set a minimum price in Orbona token and creators and collectors can swap any of their NFT for the set price. 
+So the Buyer of last resort functionality will set a minimum price in Orbona token and creators and collectors can swap any of their NFT for the set price. However to prevent the users from abusing the facility , the facility will buy only the NFTs created atleast 3-6 months before and community will decide on the minimum rate for buying on Quarterly basis.  
 
 ### NFT Tipping 
 
@@ -59,9 +59,9 @@ In addition to acting as a buyer of last resort, the Orbona Token can also be us
 
 ### Auto-Burn Mechanism
 
-Inflation is a common concern in the cryptocurrency world, and it can lead to the devaluation of a token over time. To combat this, the Orbona Token has an auto-burn mechanism built into it, which reduces the overall supply of tokens over time. This helps to maintain the value of the token and ensure that its purchasing power remains stable over time.
+Inflation is a common concern in the cryptocurrency world, and it can lead to the devaluation of a token over time. The Buyer of Last resort is highly inflationary as it aims to buy any NFT for a set amount. To combat this, the Orbona Token has an auto-burn mechanism built into it, which reduces the overall supply of tokens over time. This helps to maintain the value of the token and ensure that its purchasing power remains stable over time.
 
-The auto-burn mechanism is triggered every time the Orbona Token is used for NFT purchases or tips or nay transactions. A portion of the token is burned, reducing its overall supply, and increasing the scarcity of the remaining tokens. This helps to maintain the value of the token and prevent it from losing its purchasing power over time.
+The auto-burn mechanism is triggered every time the Orbona Token is used for NFT purchases or tips or any transactions. So a portion of the token is burned for any transaction, reducing its overall supply, and increasing the scarcity of the remaining tokens. This helps to maintain the value of the token and prevent it from losing its purchasing power over time.
 
 1. <b> Inflation Control: </b> By design, the auto-burn mechanism reduces the overall supply of tokens in circulation, helping to control inflation and maintain the token's value over time. This is particularly important for long-term investment strategies and can provide stability and security to token holders.
 
@@ -74,8 +74,9 @@ The auto-burn mechanism is triggered every time the Orbona Token is used for NFT
 
 ### Token Supply:
 
-Orbona token will have an unlimited supply, but tokens will only be minted when the buyer of last resort facility is used.
+Orbona token will have an unlimited supply, but tokens will only be minted when the buyer of last resort facility is used. 
 Tokens will also be minted in propotional to last resort facility for allocation to founders, advisors, investors, marketing, and staking rewards.
+Pre-mint amount will be decided later. however below token distribution will be maintained by burning the correponding amount of Premint will be burned from non-buyer of last resort portion.
 
 
 ### Token Distribution:
