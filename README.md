@@ -3,7 +3,7 @@
 
 ## Introduction
 
-The Non-Fungible Token (NFT) market has seen significant growth in recent years, as artists, creators, and individuals are using NFTs to monetize their digital assets and creativity. Despite this growth, the NFT market remains highly speculative and the value of individual NFTs can be difficult to predict, leading to increased risks for NFT creators and owners. Also NFT markets is skewed towards established NFT creators than to a newbie. So an artist new to NFT world finds it difficult to navigate and establish himself. Even then, he may end up having no sale or selling his NFT for very value. An cursory look at Objkt marketplace provides that more than 30% of NFTs and atleast 20% of NFTs are burned on a daily basis. Also the marketplaces in Ethereum and other blockchains have taken measure to cut down on the roylaties being paid to the artists.
+The Non-Fungible Token (NFT) market has seen significant growth in recent years, as artists, creators, and individuals are using NFTs to monetize their digital assets and creativity. Despite this growth, the NFT market remains highly speculative and the value of individual NFTs can be difficult to predict, leading to increased risks for NFT creators and collectors. Also NFT markets are skewed towards established NFT creators than to a newbie. So an artist new to NFT world finds it difficult to navigate and establish himself. Even then, he may end up having no sale or sell his NFT for very low value. An cursory look at Objkt marketplace provides that more than 30% of NFTs are priced less $3 and atleast 20% of NFTs created are burned . Also though the marketplaces in Ethereum and other blockchains have taken measure to cut down on the roylaties being paid to the artists, sale amount of NFTs in those chains are atleast 3x-5X the sale price of similar NFTs in Tezos
 
 To address these challenges and support the budding NFT culture on Tezos, we propose the creation of a new crypto token that acts as a buyer of last resort of NFTs, serves as a tipping token and has inflation resistant auto-burn functionality. This token will provide a stable and reliable source of demand for NFTs, helping to mitigate the risks of speculation and volatility in the NFT market and support the NFT ecosystem. By bridging the NFT and DeFi communities, the token can help to support the growth and development of the Tezos ecosystem and provide new opportunities for collaboration and innovation
 
@@ -23,7 +23,7 @@ The Orbona Token is a new token that will be introduced on the Tezos network as 
 
 
 ### Buyer of Last Resort
-The Orbona will act as a buyer of last resort for NFTs, providing a stable source of income for NFT creators and owners. This helps to ensure that NFTs remain valuable and that their creators and owners are able to make a living from their work.
+The Orbona will act as a buyer of last resort for NFTs, providing a stable guaranteed source of income for NFT creators and owners. This helps to ensure that NFTs remain valuable and that their creators and owners are able to make a living from their work.
 
 The buyer of last resort aspect of the Orbona Token aligns with the principles of Universal Basic Income (UBI) (which aims to provide a basic standard of living to all citizens, regardless of their circumstances). By acting as a form of UBI for the NFT community, the Orbona Token helps to support the growth and development of the NFT market and attract new participants to the  Tezos ecosystem. It will help NFT artists , collectors in following 
 
@@ -32,6 +32,8 @@ The buyer of last resort aspect of the Orbona Token aligns with the principles o
 2. <b> Stability and predictability: </b> Orbona  will provide a stable and predictable source of demand for NFTs, helping to mitigate the risks of speculation and volatility in the NFT market.
 3. <b> Support for NFT artists:</b> By providing a reliable source of demand for NFTs, the Orbona token will help to support NFT artists and creatives, enabling them to monetize their work more effectively and providing financial stability and security.
 4.  <b> Increased liquidity:</b> The presence of a buyer of last resort will increase the liquidity of the NFT market, making it easier for NFTs to be bought and sold on the open market.
+
+So the Buyer of last resort functionality will set a minimum price in Orbona token and creators and collectors can swap any of their NFT for the set price. 
 
 ### NFT Tipping 
 
