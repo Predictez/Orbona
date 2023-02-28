@@ -118,7 +118,9 @@ Token Holders can take part in governance of Orbona ecosystem by voting on propo
 ## Technical Components
 
 ### Token Contract :
+
 Ghostnet : <a href="https://smartpy.io/explorer.html?address=KT1KpPRz4NPq4QZJVfhDKA9cTtqUFcuaj5RQ">KT1KpPRz4NPq4QZJVfhDKA9cTtqUFcuaj5RQ </a>
+
 Orbona Token has burn rate of fixed amount of tokens which can be modified by a governance vote. To start with the amount will be set to 10. So if a person sends 100 tokens , the recevier will receive only 90 tokens and rest 10 will be burned. 
 
 ### Home
