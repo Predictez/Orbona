@@ -1,6 +1,9 @@
 # Orbona
 <i>Catalyzing Artistic Freedom Sustainably </i>
 
+
+![HytpaBhtdoGwQHcAoxlx](https://user-images.githubusercontent.com/103888935/221833602-9d72b786-7d80-45c9-93d2-c8f9f8954b40.jpg)
+
 ## Introduction
 
 The Non-Fungible Token (NFT) market has seen significant growth in recent years, as artists, creators, and individuals are using NFTs to monetize their digital assets and creativity. Despite this growth, the NFT market remains highly speculative and the value of individual NFTs can be difficult to predict, leading to increased risks for NFT creators and collectors. Also NFT markets are skewed towards established NFT creators than to a newbie. So an artist new to NFT world finds it difficult to navigate and establish himself. Even then, he may end up having no sale or sell his NFT for very low value. An cursory look at Objkt marketplace provides that more than 30% of NFTs are priced less $3 and atleast 20% of NFTs created are burned . Also though the marketplaces in Ethereum and other blockchains have taken measure to cut down on the roylaties being paid to the artists, sale amount of NFTs in those chains are atleast 3x-5X the sale price of similar NFTs in Tezos
