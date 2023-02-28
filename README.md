@@ -117,6 +117,8 @@ Token Holders can take part in governance of Orbona ecosystem by voting on propo
 
 ## Technical Components
 
+### Token Contract : <a https://smartpy.io/explorer.html?address=KT1KpPRz4NPq4QZJVfhDKA9cTtqUFcuaj5RQ>KT1KpPRz4NPq4QZJVfhDKA9cTtqUFcuaj5RQ </a>
+
 ### Home
 
 Home is the Buyer of last resort platform where users can deposit their NFTs for fixed number of Orbona Tokens. Number of the tokens is fixed amount in Orbona tokens for 1/1 art editions. If there are mulitple editions of same art work , then tokens awarded will be divided by the number of the editions and will sent to the depositor's address.
