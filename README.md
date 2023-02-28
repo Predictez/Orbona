@@ -92,9 +92,9 @@ Tokens will also be minted in propotional to last resort facility for allocation
 
 ## Roadmap:
 
-   <b> Q2 2023: </b> Orbona token launch, initial marketing and promotion.
+   <b> Q1 2023: </b> Orbona token launch, initial marketing and promotion.
    
-   <b> Q3 2023: </b> Development of a Buyer of last resort platform, partnerships with NFT creators and communities.
+   <b> Q2 2023: </b> Development of a Buyer of last resort platform, partnerships with NFT creators and communities.
    
    <b> Q3 2023: </b> Development of a user-friendly NFT tipping platform, integration with popular NFT marketplaces.
    
