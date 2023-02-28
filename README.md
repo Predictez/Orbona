@@ -117,7 +117,7 @@ Token Holders can take part in governance of Orbona ecosystem by voting on propo
 
 ## Technical Components
 
-### Token Contract : <a https://smartpy.io/explorer.html?address=KT1KpPRz4NPq4QZJVfhDKA9cTtqUFcuaj5RQ>KT1KpPRz4NPq4QZJVfhDKA9cTtqUFcuaj5RQ </a>
+### Token Contract : <a href="https://smartpy.io/explorer.html?address=KT1KpPRz4NPq4QZJVfhDKA9cTtqUFcuaj5RQ">KT1KpPRz4NPq4QZJVfhDKA9cTtqUFcuaj5RQ </a>
 
 ### Home
 
