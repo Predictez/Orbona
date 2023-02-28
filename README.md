@@ -76,7 +76,7 @@ The auto-burn mechanism is triggered every time the Orbona Token is used for NFT
 
 Orbona token will have an unlimited supply, but tokens will only be minted when the buyer of last resort facility is used. 
 Tokens will also be minted in propotional to last resort facility for allocation to founders, advisors, investors, marketing, and staking rewards.
-Pre-mint amount will be decided later. however below token distribution will be maintained by burning the correponding amount of Premint will be burned from non-buyer of last resort portion.
+Pre-mint amount will be decided later. however below token distribution will be maintained by burning the correponding amount of Pr-emint will be burned from non-buyer of last resort portion.
 
 
 ### Token Distribution:
@@ -106,6 +106,8 @@ Token Holders can take part in governance of Orbona ecosystem by voting on propo
 ## Roadmap:
 
    <b> Q1 2023: </b> Orbona token launch, initial marketing and promotion.
+   
+   <b> Q2 2023: </b> Establishment of DAO by early adopters.
    
    <b> Q2 2023: </b> Development of a Buyer of last resort platform, partnerships with NFT creators and communities.
    
