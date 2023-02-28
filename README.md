@@ -1,4 +1,5 @@
 # Orbona
+<i>Catalyzing Artistic Freedom Sustainably </i>
 
 ## Introduction
 
