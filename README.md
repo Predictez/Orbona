@@ -22,16 +22,15 @@ The Orbona Token is a new token that will be introduced on the Tezos network as 
 
 
 ### Buyer of Last Resort
-The Orbona Token will act as a buyer of last resort for NFTs, providing a stable source of income for NFT creators and owners. This helps to ensure that NFTs remain valuable and that their creators and owners are able to make a living from their work.
+The Orbona will act as a buyer of last resort for NFTs, providing a stable source of income for NFT creators and owners. This helps to ensure that NFTs remain valuable and that their creators and owners are able to make a living from their work.
 
-The buyer of last resort aspect of the Orbona Token aligns with the principles of Universal Basic Income (UBI) (which aims to provide a basic standard of living to all citizens, regardless of their circumstances). By acting as a form of UBI for the NFT community, the Orbona Token helps to support the growth and development of the NFT market and attract new participants to the  Tezos ecosystem. It will help NFT artist , collectors in following 
+The buyer of last resort aspect of the Orbona Token aligns with the principles of Universal Basic Income (UBI) (which aims to provide a basic standard of living to all citizens, regardless of their circumstances). By acting as a form of UBI for the NFT community, the Orbona Token helps to support the growth and development of the NFT market and attract new participants to the  Tezos ecosystem. It will help NFT artists , collectors in following 
 
 
-1. <b> Stability and predictability: </b> Orbona token will provide a stable and predictable source of demand for NFTs, helping to mitigate the risks of speculation and volatility in the NFT market.
-
-2. <b> Support for NFT artists:</b> By providing a reliable source of demand for NFTs, the Orbona token will help to support NFT artists and creatives, enabling them to monetize their work more effectively and providing financial stability and security.
-
-3. <b> Increased liquidity:</b> The presence of a buyer of last resort will increase the liquidity of the NFT market, making it easier for NFTs to be bought and sold on the open market.
+1. <b> Minimum Support Price: </b> Orbona will  provide a minimum support price for all NFTs issued on Tezos blockchain, hence pushing the price of NFTs upwards thereby increasing volume of NFTs traded on Tezos.
+2. <b> Stability and predictability: </b> Orbona  will provide a stable and predictable source of demand for NFTs, helping to mitigate the risks of speculation and volatility in the NFT market.
+3. <b> Support for NFT artists:</b> By providing a reliable source of demand for NFTs, the Orbona token will help to support NFT artists and creatives, enabling them to monetize their work more effectively and providing financial stability and security.
+4.  <b> Increased liquidity:</b> The presence of a buyer of last resort will increase the liquidity of the NFT market, making it easier for NFTs to be bought and sold on the open market.
 
 ### NFT Tipping 
 
