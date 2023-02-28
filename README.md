@@ -93,6 +93,15 @@ Tokens will also be minted in propotional to last resort facility for allocation
 2. Tipping Token - Token holders can tip art and NFT holders
 3. Buyer of last resort - Token is used as UBI for NFT artist and sellers.
 
+### Governance :
+
+Token Holders can take part in governance of Orbona ecosystem by voting on proposals. Proposals can be for 
+1. Amount of Orbona Tokens that is dispensed under Buyer of last resort facility
+2. Burn rate for Orbona Token
+3. Reward Amount for tippers
+4. Burning of any unspent tokens
+5. Any Adhoc projects 
+
 ## Roadmap:
 
    <b> Q1 2023: </b> Orbona token launch, initial marketing and promotion.
